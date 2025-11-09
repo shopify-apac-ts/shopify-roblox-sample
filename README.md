@@ -47,7 +47,6 @@ This sample uses the default sample experience given by Roblox Studio and render
 7. Modify the GUI location, size, text and background colors, caption, etc. in Properties of each object 👉[screenshot](../../wiki#roblox-studio-implementation)
 
 
-
 ### 3. Add the local script to the button
 1. Right-click your TextButton above -> Insert Object -> LocalScript
 2. Rename it to "PurchaseButtonScript"
@@ -58,14 +57,13 @@ This sample uses the default sample experience given by Roblox Studio and render
 ### 4. Test and debug
 1. Click the play button to test the game and click the checkout button shown up in the screen which shows Shopify checkout.
 
+
 ### 5. Publish the experience to Roblox
 1. Click File -> Publish to Roblox and you can play it in real [Roblox](https://roblox.com/) world!👍
 2. You have to install **Roblox client app (not Studio)** for iOS / Android / Desktop to play your experience (browser play is not supported) 👉[video](../../wiki#real-roblox-playing-with-shopify-checkout)
 
 
-
 ## TIPS
 - **As of Nov. 2025, only US players can buy Shopify products in Roblox**, but you can buy yourself products in yourself experiences even though you are not US account. If non US buyers other than you try to buy your products, Roblox shows message to block it.  👉[screenshot](../../wiki#blocking-message-for-non-eligible-players) 
 - You can customize Roblox product details page and integration with **Shopify Metafields** too. Check [their devlopment page](https://create.roblox.com/docs/production/monetization/commerce-products).
-
 
