@@ -1,11 +1,11 @@
-# Roblox Studio sample of embedding Shopify checkout to the experiences
+# Roblox Studio sample script of embedding Shopify checkout to experiences
 
 
 ## Prerequisits 
 1. Creare a Roblox account from [here](https://www.roblox.com/)
 2. Verify your email, age with ID, and fill the business info, etc. in [creator hub](https://create.roblox.com/) to be eligible to selling products following [this page](https://create.roblox.com/docs/production/monetization/commerce-products)
 3. Install [Shopify Roblox sales channel](https://apps.shopify.com/roblox) to your Shopify store
-4. Connect your Roblox account and select products to import to Roblox and sync them.
+4. Connect your Roblox account and select products to import to Roblox and sync them. [screenshot](../wiki#sales-channel-app-settings)
 5. Install [Roblox Studio](https://create.roblox.com/docs/tutorials/curriculums/studio/install-studio) desktop application (Windows or Mac OS) to your computer and login with the same account aobve.
 6. Go back to [creator hub](https://create.roblox.com/) to create an experience (virtual space like a game where you engage players and sell your profucts) with Roblox Studio above. You can use the default sample experiece instead of scratch built one.
 7. Go to the experiece manage page in [creator hub](https://create.roblox.com/) and commerce product creation. The menu path is like `Creations / ${YOUR_EXPERIENCE_NAME} / Monetization / Commerce /Create Products`.
@@ -56,13 +56,13 @@ This sample uses the default sample experience given by Roblox Studio and render
 ### 4. Test and debug
 1. Click the play button to test the game and click the checkout button shown up in the screen which shows Shopify checkout.
 
-### 5. Publish the Roblox
-1. Click File -> Publish to Roblox and you can play it in real [Roblox](roblox.com/) world!👍
-2. You have to install Roblox client app (not Studio) for iOS / Android / Desktop to play your experience (browser play is not supported)
+### 5. Publish the experience to Roblox
+1. Click File -> Publish to Roblox and you can play it in real [Roblox](https://roblox.com/) world!👍
+2. You have to install **Roblox client app (not Studio)** for iOS / Android / Desktop to play your experience (browser play is not supported)
 
 
 ## TIPS
-- **As of Nov. 2025, only US players can buy Shopify products in Roblox**, but you can buy yourself products while you are not US account. 
-- You can customize Roblox product details page and integration with Shopify Metafields too. Check [their devlopment page](https://create.roblox.com/docs/production/monetization/commerce-products).
+- **As of Nov. 2025, only US players can buy Shopify products in Roblox**, but you can buy yourself products in yourself experiences even though you are not US account. 
+- You can customize Roblox product details page and integration with **Shopify Metafields** too. Check [their devlopment page](https://create.roblox.com/docs/production/monetization/commerce-products).
 
 
