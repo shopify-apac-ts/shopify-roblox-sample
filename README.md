@@ -5,7 +5,7 @@
 1. Creare a Roblox account from [here](https://www.roblox.com/)
 2. Verify your email, age with ID, and fill the business info, etc. in [creator hub](https://create.roblox.com/) to be eligible to selling products following [this page](https://create.roblox.com/docs/production/monetization/commerce-products)
 3. Install [Shopify Roblox sales channel](https://apps.shopify.com/roblox) to your Shopify store
-4. Connect your Roblox account and select products to import to Roblox and sync them. [screenshot](../wiki#sales-channel-app-settings)
+4. Connect your Roblox account and select products to import to Roblox and sync them. 👉[screenshot](../../wiki#sales-channel-app-settings)
 5. Install [Roblox Studio](https://create.roblox.com/docs/tutorials/curriculums/studio/install-studio) desktop application (Windows or Mac OS) to your computer and login with the same account aobve.
 6. Go back to [creator hub](https://create.roblox.com/) to create an experience (virtual space like a game where you engage players and sell your profucts) with Roblox Studio above. You can use the default sample experiece instead of scratch built one.
 7. Go to the experiece manage page in [creator hub](https://create.roblox.com/) and commerce product creation. The menu path is like `Creations / ${YOUR_EXPERIENCE_NAME} / Monetization / Commerce /Create Products`.
