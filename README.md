@@ -63,6 +63,11 @@ This sample uses the default sample experience given by Roblox Studio and render
 2. You have to install **Roblox client app (not Studio)** for iOS / Android / Desktop to play your experience (browser play is not supported) 👉[video](../../wiki#real-roblox-playing-with-shopify-checkout)
 
 
+## Demo
+- You can check all screenshots and demo video in [Wiki](../../wiki)
+
+
+
 ## TIPS
 - **As of Nov. 2025, only US players can buy Shopify products in Roblox**, but you can buy yourself products in yourself experiences even though you are not US account. If non US buyers other than you try to buy your products, Roblox shows message to block it.  👉[screenshot](../../wiki#blocking-message-for-non-eligible-players) 
 - You can customize Roblox product details page and integration with **Shopify Metafields** too. Check [their devlopment page](https://create.roblox.com/docs/production/monetization/commerce-products).
