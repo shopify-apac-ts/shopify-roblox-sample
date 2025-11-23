@@ -33,7 +33,7 @@ This sample uses the default sample experience given by Roblox Studio and render
 2. In Explorer, find ServerScriptService
 3. Right-click ServerScriptService -> Insert Object -> Script
 4. Rename it to "CommerceHandler"
-5. Copy the entire code of `Commercehandler` in this sample to paste them to the script above
+5. Copy the entire code of [Commercehandler.luau](./CommerceHandler.luau) in this sample to paste them to the script above
 6. Replace `"COM-XXXXXXXXXXXX"` with your actual produtct id shown up in `step 7. in Prerequisits` 👉[screenshot](../../wiki#roblox-studio-implementation)
 
 
@@ -50,8 +50,8 @@ This sample uses the default sample experience given by Roblox Studio and render
 ### 3. Add the local script to the button
 1. Right-click your TextButton above -> Insert Object -> LocalScript
 2. Rename it to "PurchaseButtonScript"
-3. Copy the entire code of `PurchaseButtonScript` in this sample to paste them to the script above
-4. Replace `"COM-XXXXXXXXXXXX"` with your actual produtct id the same as `Commercehandler` specified 👉[screenshot](../../wiki#roblox-studio-implementation)
+3. Copy the entire code of [PurchaseButtonScript.luau](./PurchaseButtonScript.luau) in this sample to paste them to the script above
+4. Replace `"COM-XXXXXXXXXXXX"` with your actual produtct id the same as [Commercehandler.luau](./CommerceHandler.luau)  specified 👉[screenshot](../../wiki#roblox-studio-implementation)
 
 
 ### 4. Test and debug
